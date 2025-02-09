@@ -1,0 +1,7 @@
+python-dotenv  # For loading environment variables
+python-telegram-bot  # Telegram bot API
+selenium  # Web automation
+webdriver-manager  # ChromeDriver management
+httpx  # Async HTTP requests
+tenacity  # Retry mechanism
+tensorflow  # Machine learning framework
